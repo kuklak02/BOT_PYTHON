@@ -1,0 +1,3 @@
+WARNING    - 2023-04-17 13:40:30,583 - bot             : Privileged message content intent is missing, commands may not work as expected.
+INFO       - 2023-04-17 13:40:30,584 - client          : logging in using static token
+INFO       - 2023-04-17 13:40:31,430 - gateway         : Shard ID None has connected to Gateway (Session ID: 0ff05d7219a18f440a47c2913f776f8b).
